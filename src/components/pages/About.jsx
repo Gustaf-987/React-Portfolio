@@ -2,14 +2,12 @@ import React from "react";
 
 const About = () => (
   <div>
-    <h1>About Page</h1>
+    <h1>About Me</h1>
     <p>
-      Nunc pharetra finibus est at efficitur. Praesent sed congue diam. Integer gravida dui mauris,
-      ut interdum nunc egestas sed. Aenean sed mollis diam. Nunc aliquet risus ac finibus porta. Nam
-      quis arcu non lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-      imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus in. Sed rhoncus mollis
-      diam, sit amet facilisis lectus blandit at.
+    My name is Gustaf, welcome to my About Me page! I am a full time coding student in UMN Bootcamp! I am exicted to be able to learn new skills and translate them into web design! I was born and raised in Minneapolis. In my free time
+                        I enjoy listening to music and going to the gym.
     </p>
+    <img width= "400px" src="../meTie.png" id="myimg" alt="Gustaf"></img>
   </div>
 );
 
